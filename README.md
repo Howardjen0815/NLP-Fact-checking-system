@@ -1,4 +1,4 @@
-# Climate Change Fact-Checking System (Top-15 Ranking)
+# Climate Change Fact-Checking System (Top-10 Ranking)
 
 [cite_start]這是一個針對氣候科學領域開發的自動化事實查核系統。本專案實現了一個結合**多階段證據檢索 (Multi-stage Evidence Retrieval)** 與**深度學習標籤分類 (Claim Classification)** 的混合式管線。在 University of Melbourne NLP 專案競賽中獲得了 **Top-10** 的排名 [cite: 9, 17]。
 
