@@ -35,4 +35,4 @@
 
 ## 📂 檔案清單
 * [cite_start]`COMP90042_essay.pdf`: 完整的 ACL 格式技術報告 [cite: 18, 212]。
-* `Project_Notebook.ipynb`: 包含模型訓練與評估的完整程式碼。
+* `NLP fact checking model.ipynb`: 包含模型訓練與評估的完整程式碼。
